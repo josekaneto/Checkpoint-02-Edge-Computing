@@ -22,6 +22,7 @@
   - LDR (Light Dependent Resistor)
   - DHT22
   - Display LCD
+  - Buzzer
 
 ## Programação ⌨️ 
   - Linguagem C
