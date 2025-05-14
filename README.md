@@ -32,4 +32,7 @@
   ![](https://github.com/user-attachments/assets/eb6082d9-e70e-4663-bf61-8b25d23ed187)
   <br>
   [Link Do Projeto](https://wokwi.com/projects/428328074372035585)
+
+## Vídeo do Projeto
+  [Vídeo do Projeto - Wokwi](https://youtu.be/yR98a81piOo?si=rJSc927pR-9bt8YK)
   
